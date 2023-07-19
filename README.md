@@ -53,8 +53,8 @@ This repository and its contents are licensed under the [MIT License](https://op
 ## Support me
 
 Your sponsorship will play a crucial role in helping me achieve my goals and aspirations. This will also help me with in my future projects.
-If you are from from India, here is my UPI-id: j.mistri@paytm
-if you are from other country here is my paypal: https://www.paypal.me/TakiShiwa
+- If you are from from India, here is my UPI-id: j.mistri@paytm
+- If you are from other country here is my paypal: https://www.paypal.me/TakiShiwa
 
 ---
 
