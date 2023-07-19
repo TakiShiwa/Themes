@@ -8,7 +8,7 @@ Welcome to the Beautiful Themes repository! Here, you will find a carefully cura
 - [Themes](#themes)
 - [Contribution Guidelines](#contribution-guidelines)
 - [License](#license)
-- [Support me](#Supprt me)
+- [Support me](#Support-me)
 
 ## Introduction
 
@@ -50,7 +50,7 @@ We welcome contributions from the community to make this repository even more co
 
 This repository and its contents are licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute the themes in this repository for personal and commercial purposes. However, we do not hold responsibility for any issues or damages that may arise from the use of these themes.
 
-## Supprt me
+## Support me
 
 Your sponsorship will play a crucial role in helping me achieve my goals and aspirations. This will also help me with in my future projects.
 If you are from from India, here is my UPI-id: j.mistri@paytm
