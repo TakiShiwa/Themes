@@ -55,10 +55,10 @@ This repository and its contents are licensed under the [MIT License](https://op
 Your sponsorship will play a crucial role in helping me achieve my goals and aspirations. This will also help me with in my future projects.
 - If you are from from India, here is my UPI-id: [j.mistri@paytm](https://github.com/TakiShiwa/Themes/assets/137756384/02a87419-84ec-4ea8-a910-20f92e19259a)
 
-- If you are from other country here is my paypal: https://www.paypal.me/TakiShiwa
+- If you are from any other country here is my paypal: https://www.paypal.me/TakiShiwa
 
 ---
 
-We hope that this repository will inspire creativity and foster a sense of joy and satisfaction while working on your projects. If you have any questions, concerns, or suggestions, feel free to open an issue, and we'll be happy to assist you.
+We hope that this repository will inspire creativity and foster a sense of joy and satisfaction while working on your projects. If you have any questions, concerns, or suggestions, feel free to open an issue, and I'll be happy to assist you.
 
 Happy theming! 🎨
