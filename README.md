@@ -14,23 +14,20 @@ Welcome to the Beautiful Themes repository! Here, you will find a carefully cura
 
 Beauty plays a significant role in how we perceive and interact with digital applications. Our aim with this repository is to bring together an assortment of beautiful themes that enhance user experiences, increase productivity, and make development environments more delightful.
 
-We understand the importance of customization and the desire to express creativity through visual design. Therefore, we have meticulously selected themes that strike the perfect balance between elegance and functionality.
+Understanding the importance of customization and the desire to express creativity through visual design. Therefore, I have meticulously selected themes that strike the perfect balance between elegance and functionality.
 
 ## Themes
 
-Our repository currently offers themes for the following applications and platforms:
+This repository currently offers themes for the following applications:
 
-- Text Editors
-- Integrated Development Environments (IDEs)
-- Command Line Interfaces (CLIs)
-- Website Templates
-- Mobile App Interfaces
+- [Vendetta](https://github.com/vendetta-mod), A mod for Discord's mobile apps.
+- Telegram (Coming Soon)
 
-Each theme has been thoughtfully crafted by talented designers and developers, ensuring the highest quality and aesthetic appeal. We continually update and expand the collection to keep it fresh and relevant to the latest design trends.
+Each theme has been thoughtfully crafted by me, ensuring the highest quality and aesthetic appeal. I continually update and expand the collection to keep it fresh and relevant to the latest updates.
 
 ## Contribution Guidelines
 
-We welcome contributions from the community to make this repository even more comprehensive and diverse. If you have a beautiful theme you'd like to share, please follow these guidelines:
+I always welcome contributions from the community to make this repository even more comprehensive and diverse. If you have a beautiful theme you'd like to share, please follow these guidelines:
 
 1. Fork this repository to your GitHub account.
 
@@ -48,7 +45,7 @@ We welcome contributions from the community to make this repository even more co
 
 ## License
 
-This repository and its contents are licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute the themes in this repository for personal and commercial purposes. However, we do not hold responsibility for any issues or damages that may arise from the use of these themes.
+This repository and its contents are licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute the themes in this repository for personal and commercial purposes. However, I do not hold responsibility for any issues or damages that may arise from the use of these themes.
 
 ## Support me
 
@@ -59,6 +56,6 @@ Your sponsorship will play a crucial role in helping me achieve my goals and asp
 
 ---
 
-We hope that this repository will inspire creativity and foster a sense of joy and satisfaction while working on your projects. If you have any questions, concerns, or suggestions, feel free to open an issue, and I'll be happy to assist you.
+I hope that this repository will inspire creativity and foster a sense of joy and satisfaction while working on your projects. If you have any questions, concerns, or suggestions, feel free to open an issue, and I'd be happy to assist you.
 
 Happy theming! 🎨
