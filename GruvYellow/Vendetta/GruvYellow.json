@@ -1,5 +1,5 @@
 {
-    "name": "Gruv Yellow 3.1.9",
+    "name": "Gruv Yellow 3.2.0",
     "description": "A gruvy yellow theme.",
 	"authors": [
       {
@@ -369,9 +369,9 @@
             "#fb4934"
         ],
         "TEXT_LINK": [
-            "#b4befe",
-            "#7680C0",
-            "#A8B2F2"
+            "#8ec07c",
+            "#427b58",
+            "#689d6a"
         ],
         "TEXT_LINK_LOW_SATURATION": [
             "#fbf1c7",
