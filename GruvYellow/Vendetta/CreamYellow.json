@@ -1,5 +1,5 @@
 {
-    "name": "Cream Yellow 1.1.4a",
+    "name": "Cream Yellow 1.2.0",
     "description": "A creamy yellow theme.",
 	"authors": [
       {
@@ -9,24 +9,24 @@
     ],
     "semanticColors": {
         "ACTIVITY_CARD_BACKGROUND": [
-            "#FF0000",
-            "#FF0000"
+            "#fb4934",
+            "#fb4934"
         ],
         "BACKGROUND_FLOATING": [
             "#3c3836",
             "#3c3836"
         ],
         "BACKGROUND_MENTIONED": [
-            "#374863",
-            "#374863"
+            "#bdae931a",
+            "#bdae931a"
         ],
         "BACKGROUND_MENTIONED_HOVER": [
-            "#a39971",
-            "#a39971"
+            "#a399711a",
+            "#a399711a"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#3a4d63",
-            "#3a4d63"
+            "#bdae931a",
+            "#bdae931a"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#282828",
@@ -49,8 +49,8 @@
             "#3A2C26"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#6c7086",
-            "#6c7086"
+            "#d5c4a126",
+            "#d5c4a126"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
             "#504945",
@@ -228,6 +228,10 @@
             "#83a598",
             "#83a598"
         ],
+        "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+            "#3c3836",
+            "#3c3836"
+        ],
         "SCROLLBAR_AUTO_THUMB": [
             "#6c7086",
             "#6c7086"
@@ -310,6 +314,7 @@
         "PRIMARY_100": "#908A71",
         "PRIMARY_300": "#908a71",
         "PRIMARY_400": "#85876D",
+        "PRIMARY_460": "#2D2D2D",
         "PRIMARY_600": "#282828",
         "PRIMARY_630": "#282828",
         "PRIMARY_700": "#3C3836",
