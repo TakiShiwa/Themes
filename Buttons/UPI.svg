@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1125 2436">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-family: ArialRoundedMTBold, 'Arial Rounded MT Bold';
+        font-size: 89.68px;
+      }
+
+      .cls-2 {
+        fill: #000036;
+      }
+
+      .cls-3 {
+        letter-spacing: -.02em;
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" x="1.95" y="1028" width="1121.05" height="212.25" rx="29.01" ry="29.01"/>
+  <text class="cls-1" transform="translate(93.6 1167.52)"><tspan x="0" y="0">Don</tspan><tspan class="cls-3" x="174.73" y="0">a</tspan><tspan x="225.79" y="0">te Me</tspan></text>
+  <image width="519" height="216" transform="translate(605.82 1036.22) scale(.91)" xlink:href="../../Downloads/image-removebg-preview-81.png"/>
+</svg>
