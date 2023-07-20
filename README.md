@@ -10,13 +10,13 @@ Welcome to the Beautiful Themes repository! Here, you will find a carefully cura
 - [License](#license)
 - [Support me](#Support-me)
 
-## Introduction
+## 🙏Introduction
 
 Beauty plays a significant role in how we perceive and interact with digital applications. Our aim with this repository is to bring together an assortment of beautiful themes that enhance user experiences, increase productivity, and make development environments more delightful.
 
 Understanding the importance of customization and the desire to express creativity through visual design. Therefore, I have meticulously selected themes that strike the perfect balance between elegance and functionality.
 
-## Themes
+## 🎨Themes
 
 This repository currently offers themes for the following applications:
 
@@ -25,7 +25,7 @@ This repository currently offers themes for the following applications:
 
 Each theme has been thoughtfully crafted by me, ensuring the highest quality and aesthetic appeal. I continually update and expand the collection to keep it fresh and relevant to the latest updates.
 
-## Contribution Guidelines
+## 🤝Contribution Guidelines
 
 I always welcome contributions from the community to make this repository even more comprehensive and diverse. If you have a beautiful theme you'd like to share, please follow these guidelines:
 
@@ -43,16 +43,17 @@ I always welcome contributions from the community to make this repository even m
 
 7. Your contribution will be reviewed, and upon approval, it will be merged into the main repository, giving you proper credits for your valuable work.
 
-## License
+## 🪪License
 
 This repository and its contents are licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute the themes in this repository for personal and commercial purposes. However, I do not hold responsibility for any issues or damages that may arise from the use of these themes.
 
-## Support me
+## ❤️Support me
 
 Your sponsorship will play a crucial role in helping me achieve my goals and aspirations. This will also help me with in my future projects.
 - If you are from from India, here is my UPI-id: [j.mistri@paytm](https://github.com/TakiShiwa/Themes/assets/137756384/02a87419-84ec-4ea8-a910-20f92e19259a)
 
-- If you are from any other country here is my paypal: https://www.paypal.me/TakiShiwa
+- If you are from any other country here is my paypal:
+ <a href="https://www.paypal.me/TakiShiwa"><img src="https://github.com/TakiShiwa/Themes/blob/main/Buttons/blue.svg" height="40"></a>
 
 ---
 
