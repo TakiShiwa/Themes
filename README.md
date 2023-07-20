@@ -53,7 +53,8 @@ Your sponsorship will play a crucial role in helping me achieve my goals and asp
 - If you are from from India, here is my UPI-id: [j.mistri@paytm](https://github.com/TakiShiwa/Themes/assets/137756384/02a87419-84ec-4ea8-a910-20f92e19259a)
 
 - If you are from any other country here is my paypal:
- <a href="https://www.paypal.me/TakiShiwa"><img src="https://github.com/TakiShiwa/Themes/blob/main/Buttons/blue.svg" height="40"></a>
+
+<a href="https://www.paypal.me/TakiShiwa"><img src="https://github.com/TakiShiwa/Themes/blob/main/Buttons/blue.svg" height="40"></a>
 
 ---
 
