@@ -50,7 +50,9 @@ This repository and its contents are licensed under the [MIT License](https://op
 ## ❤️Support me
 
 Your sponsorship will play a crucial role in helping me achieve my goals and aspirations. This will also help me with in my future projects.
-- If you are from from India, here is my UPI-id: [j.mistri@paytm](https://github.com/TakiShiwa/Themes/assets/137756384/02a87419-84ec-4ea8-a910-20f92e19259a)
+- If you are from from India, here is my UPI-id: 
+
+<a href="https://github.com/TakiShiwa/Themes/assets/137756384/02a87419-84ec-4ea8-a910-20f92e19259a"><img src="https://github.com/TakiShiwa/Themes/blob/main/Buttons/UPI%20button.svg" height="40"></a>
 
 - If you are from any other country here is my paypal:
 
