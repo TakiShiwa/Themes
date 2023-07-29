@@ -31,7 +31,7 @@ Your sponsorship will help me achieve my goals and support future projects.
 
 - UPI-id for Indian supporters:
   
-  <a href="https://github.com/TakiShiwa/Themes/assets/137756384/02a87419-84ec-4ea8-a910-20f92e19259a"><img src="https://github.com/TakiShiwa/donate-with-upi/blob/main/Button/SVG/UPI-black-02.svg" height="40"></a>
+  <a href="https://github.com/TakiShiwa/Themes/assets/137756384/02a87419-84ec-4ea8-a910-20f92e19259a"><img src="https://github.com/TakiShiwa/donate-with-upi/blob/main/Button/SVG/UPI-teal-01.svg" height="40"></a>
     
 - PayPal for international supporters:
   
