@@ -1,6 +1,6 @@
 # Themes Repository
 
-Welcome to the Beautiful Themes repository! Here, you will find a curated collection of stunning themes for various applications and platforms.
+Welcome to the Beautiful Themes repository! Here, you will find a curated collection of stunning themes for various applications.
 
 ## 🎨Themes
 
