@@ -1,7 +1,9 @@
+/* 
 <h1 align="center">
 <img src="https://github.com/TakiShiwa/TestThemes/blob/main/Taki-01.svg" width="500" alt="Logo"/><br/>
 Themes Repository
 </h1>
+*/
 
 <p align="center">
 Welcome to the Beautiful Themes repository! Here, you will find a curated collection of stunning themes for various applications.
