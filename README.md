@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://github.com/TakiShiwa/TestThemes/blob/main/Untitled-3-01.svg" width="500" alt="Logo"/><br/>
+<img src="https://github.com/TakiShiwa/TestThemes/blob/main/Taki-01.svg" width="500" alt="Logo"/><br/>
 Themes Repository
 </h1>
 
