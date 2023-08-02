@@ -1,4 +1,5 @@
 <h1 align="center">
+<img src="https://github.com/TakiShiwa/TestThemes/blob/main/TakiShiwaPfP-01.svg" width="100" alt="Logo"/><br/>
 Themes Repository
 </h1>
 
