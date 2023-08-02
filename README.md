@@ -1,8 +1,13 @@
-# Themes Repository
+<h3 align="center">
+Themes Repository
+</h3>
 
+<p align="center">
 Welcome to the Beautiful Themes repository! Here, you will find a curated collection of stunning themes for various applications.
+</p>
 
-## 🎨Themes
+
+### 🎨Themes
 
 This repository offers themes for:
 
@@ -11,7 +16,7 @@ This repository offers themes for:
 
 Each theme has been thoughtfully crafted to ensure the highest quality and aesthetic appeal.
 
-## 🤝Contribution Guidelines
+### 🤝Contribution Guidelines
 
 Contributions are welcome! To add your theme:
 
@@ -21,11 +26,11 @@ Contributions are welcome! To add your theme:
 4. Open a pull request to the main repository, explaining your theme's uniqueness.
 5. Upon approval, your contribution will be merged, giving you proper credits.
 
-## 🪪License
+### 🪪License
 
 This repository and its contents are licensed under the [MIT License](https://github.com/TakiShiwa/Themes/blob/main/LICENSE). You are free to use, modify, and distribute the themes for personal and commercial purposes.
 
-## ❤️Support Me
+### ❤️Support Me
 
 Your sponsorship will help me achieve my goals and support future projects.
 
