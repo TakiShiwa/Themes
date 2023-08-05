@@ -51,7 +51,7 @@ Your sponsorship will help me achieve my goals and support future projects.
     
 - PayPal for international supporters:
   
-<a href="https://www.paypal.me/TakiShiwa"><img src="https://github.com/TakiShiwa/donate-with-upi/blob/main/PayPal/blue%20copy-machito-01.svg" height="40"></a>
+<a href="https://www.paypal.me/TakiShiwa"><img src="https://github.com/andreostrovsky/donate-with-paypal/blob/master/blue.svg" height="40"></a>
   
 ---
 
