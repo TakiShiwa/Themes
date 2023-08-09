@@ -1,5 +1,5 @@
 {
-    "name": "Vendetta Teal 1.1.8",
+    "name": "Vendetta Teal 1.2.0",
     "description": "An Amoled theme based on Vendetta Teal color.",
   "authors": [
       {
@@ -382,6 +382,11 @@
         "GREEN_360": "#689d6a",
         "WHITE_500": "#affffe",
         "YELLOW_300": "#27A4A6"
+    },
+    "plus": {
+        "version": 0,
+        "customOverlays": true,
+        "iconpack":"rosiecord-plumpy"
     },
     "spec": 2
             }
