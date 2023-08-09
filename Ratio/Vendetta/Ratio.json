@@ -1,5 +1,5 @@
 {
-    "name": "Ratio 1.0.1",
+    "name": "Ratio 1.1.0",
     "description": "Embrace simplicity, cut distractions, and uncover what truly matters with a minimalistic theme.",
 	"authors": [
       {
@@ -460,6 +460,11 @@
         "GREEN_360": "#689d6a",
         "WHITE_500": "#ffffff",
         "YELLOW_300": "#d65d0e"
+    },
+    "plus": {
+        "version": 0,
+        "customOverlays": true,
+        "iconpack":"rosiecord-plumpy"
     },
     "spec": 2
             }
