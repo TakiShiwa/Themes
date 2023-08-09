@@ -1,5 +1,5 @@
 {
-    "name": "Cream Yellow 1.2.1",
+    "name": "Cream Yellow 1.3.0",
     "description": "A creamy yellow theme.",
 	"authors": [
       {
@@ -327,6 +327,11 @@
         "BRAND_560": "#A07F50",
         "RED_400": "#E8AC41",
         "GREEN_360": "#908A71"
+    },
+    "plus": {
+        "version": 0,
+        "customOverlays": true,
+        "iconpack":"rosiecord-plumpy"
     },
     "spec": 2
             }
