@@ -1,5 +1,5 @@
 {
-    "name": "ClearVision 1.2.0",
+    "name": "ClearVision 1.2.1",
     "description": "Clear Vision paints serenity across the canvas of our Discord realm.",
 	"authors": [
       {
@@ -64,9 +64,9 @@
             "#2678d626"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#2678d680",
-            "#2678d680",
-            "#2678d680"
+            "#2678d6B3",
+            "#2678d6B3",
+            "#2678d6B3"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#0a2848",
