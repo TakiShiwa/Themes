@@ -1,6 +1,6 @@
 {
-    "name": "ClearVision 1.1.0",
-    "description": "Test",
+    "name": "ClearVision 1.2.0",
+    "description": "Clear Vision paints serenity across the canvas of our Discord realm.",
 	"authors": [
       {
          "name": "Taki_Shiwa",
@@ -44,9 +44,9 @@
             "#061428"
         ],
         "BACKGROUND_ACCENT": [
-            "#1a74db",
-            "#1a74db",
-            "#1a74db"
+            "#86b4ea",
+            "#86b4ea",
+            "#86b4ea"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#114d917a",
@@ -99,9 +99,9 @@
             "#000000"
         ],			
         "CHANNELS_DEFAULT": [
-            "#dcddde",
-            "#dcddde",
-            "#dcddde"			
+            "#575a68",
+            "#575a68",
+            "#575a68"			
         ],
         "CHANNEL_ICON": [
             "#2780E64d",
@@ -114,9 +114,9 @@
             "#00000099"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER":  [
-            "#2678d6",
-            "#2678d6",
-            "#2678d6"
+            "#81b6ef",
+            "#81b6ef",
+            "#81b6ef"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#0a2848",
@@ -279,9 +279,9 @@
             "#102b47"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#4b96e7",
-            "#4b96e7",
-            "#4b96e7"
+            "#2780E6",
+            "#2780E6",
+            "#2780E6"
         ],
         "INTERACTIVE_HOVER": [
             "#061428",
@@ -289,9 +289,9 @@
             "#061428"
         ],
         "INTERACTIVE_MUTED": [
-            "#72767D",
-            "#72767D",
-            "#72767D"
+            "#3f414c",
+            "#3f414c",
+            "#3f414c"
         ],
         "INTERACTIVE_NORMAL": [
             "#81b6ef",
@@ -435,7 +435,7 @@
         "BLACK_860": "#000000",
         "BLACK_900": "#000000",
         "BRAND_230": "#ff0000",
-        "BRAND_260": "#2780E6",
+        "BRAND_260": "#86b4ea",
         "BRAND_360": "#4b96e7",
         "BRAND_500": "#2780E6",
         "BRAND_560": "#3789E6",
@@ -453,6 +453,14 @@
     "plus": {
         "version": 0,
         "customOverlays": true,
+        "icons": {
+            "ic_mic_neutral": "#102b47",
+            "ic_mic_muted_neutral": "#102b47",
+            "ic_soundboard":"#102b47",
+            "ic_soundboard_muted": "#102b47",
+            "ic_video": "#102b47",
+            "ic_video_disabled": "#102b47"
+        },
         "iconpack":"rosiecord-plumpy"
     },
     "spec": 2
