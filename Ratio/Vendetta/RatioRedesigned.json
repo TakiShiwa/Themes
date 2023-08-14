@@ -1,5 +1,5 @@
 {
-    "name": "Ratio Redesigned 1.1.0 ",
+    "name": "Ratio Redesigned 1.1.1 ",
     "description": "Embrace simplicity, cut distractions, and uncover what truly matters with a minimalistic theme.",
 	"authors": [
       {
@@ -464,6 +464,14 @@
     "plus": {
         "version": 0,
         "customOverlays": true,
+        "icons": {
+            "ic_mic_neutral": "#85876D",
+            "ic_mic_muted_neutral": "#85876D",
+            "ic_soundboard":"#85876D",
+            "ic_soundboard_muted": "#85876D",
+            "ic_video": "#85876D",
+            "ic_video_disabled": "#85876D"
+        },
         "iconpack":"rosiecord-plumpy"
     },
     "spec": 2
