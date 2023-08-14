@@ -1,5 +1,5 @@
 {
-    "name": "Gruv Yellow 3.3.0",
+    "name": "Gruv Yellow 3.3.1",
     "description": "A gruvy yellow theme.",
 	"authors": [
       {
@@ -444,6 +444,14 @@
     "plus": {
         "version": 0,
         "customOverlays": true,
+        "icons": {
+            "ic_mic_neutral": "#85876D",
+            "ic_mic_muted_neutral": "#85876D",
+            "ic_soundboard":"#85876D",
+            "ic_soundboard_muted": "#85876D",
+            "ic_video": "#85876D",
+            "ic_video_disabled": "#85876D"
+        },
         "iconpack":"rosiecord-plumpy"
     },
     "spec": 2
