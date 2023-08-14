@@ -1,5 +1,5 @@
 {
-    "name": "Cream Yellow 1.3.0",
+    "name": "Cream Yellow 1.3.2",
     "description": "A creamy yellow theme.",
 	"authors": [
       {
@@ -331,6 +331,14 @@
     "plus": {
         "version": 0,
         "customOverlays": true,
+        "icons": {
+            "ic_mic_neutral": "#3c3836",
+            "ic_mic_muted_neutral": "#3c3836",
+            "ic_soundboard":"#3c3836",
+            "ic_soundboard_muted": "#3c3836",
+            "ic_video": "#3c3836",
+            "ic_video_disabled": "#3c3836"
+        },
         "iconpack":"rosiecord-plumpy"
     },
     "spec": 2
