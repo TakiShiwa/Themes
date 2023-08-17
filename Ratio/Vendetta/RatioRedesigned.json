@@ -1,5 +1,5 @@
 {
-    "name": "Ratio Redesigned 1.1.1 ",
+    "name": "Ratio Redesigned 1.1.2 ",
     "description": "Embrace simplicity, cut distractions, and uncover what truly matters with a minimalistic theme.",
 	"authors": [
       {
@@ -472,7 +472,7 @@
             "ic_video": "#85876D",
             "ic_video_disabled": "#85876D"
         },
-        "iconpack":"m3-materialyou"
+        "iconpack":"rosiecord-iconsax"
     },
     "spec": 2
             }
