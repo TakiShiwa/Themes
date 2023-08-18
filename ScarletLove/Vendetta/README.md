@@ -1,6 +1,8 @@
 <h1 align = "center">SCARLET LOVE</h1>
 
-Soon gonna release, till then wait...
+<p align ="center">Soon gonna release, till then wait...</p>
+
+&nbsp;
 
 ## Screenshot
 
