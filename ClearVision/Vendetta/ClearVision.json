@@ -447,7 +447,7 @@
         "YELLOW_300": "#2780E6"
     },
     "background": {
-        "url": "https://cdn.discordapp.com/attachments/1121000274593591399/1142039876951363666/iezxhbL0.jpg"
+        "url": "https://cdn.discordapp.com/attachments/1121000274593591399/1142036406798123048/WPh7qA0x.jpg"
     },
     "plus": {
         "version": 0,
@@ -460,7 +460,7 @@
             "ic_video": "#102b47",
             "ic_video_disabled": "#102b47"
         },
-        "iconpack":"rosiecord-iconsax"
+        "iconpack":"rosiecord-plumpy"
     },
     "spec": 2
             }
