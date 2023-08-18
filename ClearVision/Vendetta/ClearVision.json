@@ -1,5 +1,5 @@
 {
-    "name": "ClearVision 1.2.1",
+    "name": "ClearVision 1.2.3",
     "description": "Clear Vision paints serenity across the canvas of our Discord realm.",
 	"authors": [
       {
@@ -415,7 +415,7 @@
         "PRIMARY_400": "#0f4480",
         "PRIMARY_460": "#061428",
         "PRIMARY_500": "#114d91",
-        "PRIMARY_600": "#061428",
+        "PRIMARY_600": "#06142800",
         "PRIMARY_630": "#061428",
         "PRIMARY_660": "#061428",
         "PRIMARY_700": "#061428",
@@ -447,8 +447,7 @@
         "YELLOW_300": "#2780E6"
     },
     "background": {
-        "url": "https://cdn.discordapp.com/attachments/1121000274593591399/1140170018852716574/PSTl4biv.jpg",
-        "alpha": 0.3
+        "url": "https://cdn.discordapp.com/attachments/1121000274593591399/1141950489739657226/VObm8knz.jpg"
     },
     "plus": {
         "version": 0,
