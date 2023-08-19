@@ -1,6 +1,6 @@
 <h1 align = "center">SCARLET LOVE</h1>
 
-<p align ="center">Soon gonna release, till then wait...</p>
+<p align ="center">Shades of Red, Shades of Love: Enter Scarlet's Embrace</p>
 
 &nbsp;
 
