@@ -1,10 +1,9 @@
 <h1 align = "center">SCARLET LOVE</h1>
 
-<p align ="center">Shades of Red, Shades of Love: Enter Scarlet's Embrace</p> 
-<p align = "center">It is a beautiful Red theme for [vendetta](https://github.com/vendetta-mod/Vendetta).</p>
+<p align ="center">Shades of Red, Shades of Love: Enter Scarlet's Embrace. 
+It is a beautiful Red theme for <a href="https://github.com/vendetta-mod">Vendetta</a>.  </p>
 
 &nbsp;
-
 ## Screenshot
 
 ![Scarlet love  8](https://github.com/TakiShiwa/Themes/assets/137756384/9e4829a8-8c10-4384-b8ad-d4bcd70e6da2)
