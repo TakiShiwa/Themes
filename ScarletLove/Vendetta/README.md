@@ -1,6 +1,6 @@
 <h1 align = "center">SCARLET LOVE</h1>
 
-<p align ="center">Shades of Red, Shades of Love: Enter Scarlet's Embrace. 
+<p align ="center">Shades of Red, Shades of Love: Enter Scarlet's Embrace. <br>
 It is a beautiful Red theme for <a href="https://github.com/vendetta-mod">Vendetta</a>.  </p>
 
 &nbsp;
