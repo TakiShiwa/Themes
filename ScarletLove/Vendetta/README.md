@@ -6,7 +6,7 @@ It is a beautiful Red theme for <a href="https://github.com/vendetta-mod">Vendet
 &nbsp;
 ## Screenshot
 
-![Scarlet love  8](https://github.com/TakiShiwa/Themes/assets/137756384/9e4829a8-8c10-4384-b8ad-d4bcd70e6da2)
+![Scarlet love  9](https://github.com/TakiShiwa/Themes/assets/137756384/e3a15375-237e-467b-85f4-c22e4fce357f)
 
 ![Scarlet love ](https://github.com/TakiShiwa/Themes/assets/137756384/b0f2cae9-9cee-4541-9f02-821683835e9d)
 
