@@ -1,6 +1,7 @@
-<h1 align="center">
-Themes Repository
-</h1>
+<h3 align="center">
+   <img src="Asset/Profile/pfp.png" width="100" alt="Logo"/><br/>
+   Themes Repository
+</h3>
 
 <p align="center">
 Welcome to the Beautiful Themes repository! Here, you will find a curated collection of stunning themes for various applications.
