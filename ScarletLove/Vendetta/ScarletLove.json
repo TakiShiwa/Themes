@@ -1,5 +1,5 @@
 {
-    "name": "Scarlet Love 1.0.3 ",
+    "name": "Scarlet Love 1.0.4 ",
     "description": "Shades of Red, Shades of Love: Enter Scarlet's Embrace.",
   "authors": [
       {
@@ -346,6 +346,7 @@
         "PRIMARY_100": "#ffdad4",
         "PRIMARY_130": "#f1ffff",
         "PRIMARY_200": "#ffdad4",
+        "PRIMARY_230": "#ffdad4",
         "PRIMARY_300": "#cb7b70",
         "PRIMARY_360": "#cb7b70",
         "PRIMARY_400": "#ab6158",
