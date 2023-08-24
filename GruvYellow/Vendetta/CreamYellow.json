@@ -1,5 +1,5 @@
 {
-    "name": "Cream Yellow 1.3.2",
+    "name": "Cream Yellow 1.3.3",
     "description": "A creamy yellow theme.",
 	"authors": [
       {
@@ -312,6 +312,7 @@
     "rawColors": {
         "PRIMARY_500": "#504945",
         "PRIMARY_100": "#908A71",
+        "PRIMARY_230": "#908A71",
         "PRIMARY_300": "#908a71",
         "PRIMARY_400": "#85876D",
         "PRIMARY_460": "#2D2D2D",
