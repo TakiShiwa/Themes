@@ -5,7 +5,7 @@ Clear Vision paints serenity across the canvas of our Discord realm.</p>
 
 ### Screenshots
 
-![Clear Vision New 3](https://github.com/TakiShiwa/Themes/assets/137756384/018f44c2-0bb7-43cc-8ce1-d89d8277ce90)
+![New_Clear Vision New 4](https://github.com/TakiShiwa/Themes/assets/137756384/28f8bc3f-444a-4218-a300-1b8378c8863f)
 
 ![Clear Vision New](https://github.com/TakiShiwa/Themes/assets/137756384/fd595038-d86e-4984-bab9-aff9bae98788)
 
