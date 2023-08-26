@@ -1,5 +1,5 @@
 {
-    "name": "Vendetta Teal 1.2.3",
+    "name": "Vendetta Teal v1.2.3",
     "description": "An Amoled theme based on Vendetta Teal color.",
   "authors": [
       {
@@ -356,6 +356,7 @@
         "PRIMARY_400": "#006a68",
         "PRIMARY_460": "#00201f",
         "PRIMARY_500": "#00504f",
+        "PRIMARY_560": "#00201f",
         "PRIMARY_600": "#000000",
         "PRIMARY_630": "#00201f",
         "PRIMARY_660": "#00201f",
