@@ -1,5 +1,5 @@
 {
-    "name": "Cream Yellow 1.3.3",
+    "name": "Cream Yellow 1.3.4",
     "description": "A creamy yellow theme.",
 	"authors": [
       {
@@ -231,6 +231,10 @@
         "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
             "#3c3836",
             "#3c3836"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_ALT_PRESSED_BACKGROUND": [
+            "#3c3836",
+            "#ebdbb2"
         ],
         "SCROLLBAR_AUTO_THUMB": [
             "#6c7086",
