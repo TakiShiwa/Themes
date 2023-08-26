@@ -1,5 +1,5 @@
 {
-    "name": "Gruv Yellow 3.3.3",
+    "name": "Gruv Yellow 3.3.4",
     "description": "A gruvy yellow theme.",
 	"authors": [
       {
@@ -288,6 +288,11 @@
             "#665c54",
             "#928374"
         ],
+        "ICON_MUTED": [
+            "#928374",
+            "#665c54",
+            "#928374"
+        ],
         "INTERACTIVE_NORMAL": [
             "#bdae93",
             "#665c54",
@@ -308,10 +313,25 @@
             "#ebdbb2",
             "#000000"
         ],
+        "REDESIGN_BUTTON_OVERLAY_PRESSED_BACKGROUND": [
+            "#bdae93",
+            "#665c54",
+            "#bdae93"
+       ],
         "REDESIGN_BUTTON_SECONDARY_ALT_PRESSED_BACKGROUND": [
             "#3c3836",
             "#ebdbb2",
             "#000000"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_ALT_TEXT": [
+            "#bdae93",
+            "#665c54",
+            "#bdae93"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_TEXT": [
+            "#bdae93",
+            "#665c54",
+            "#bdae93"
         ],
         "SCROLLBAR_AUTO_THUMB": [
             "#3c3836",
@@ -437,6 +457,7 @@
         "BRAND_230": "#ff0000",
         "BRAND_260": "#fabd2f",
         "BRAND_360": "#b57614",
+        "BRAND_430": "#b57614",
         "BRAND_500": "#d79921",
         "BRAND_560": "#928374",
         "RED_400": "#d79921",
