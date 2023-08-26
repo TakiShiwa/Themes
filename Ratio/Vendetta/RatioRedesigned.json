@@ -1,5 +1,5 @@
 {
-    "name": "Ratio Redesigned 1.1.3 ",
+    "name": "Ratio Redesigned v1.1.3 ",
     "description": "Embrace simplicity, cut distractions, and uncover what truly matters with a minimalistic theme.",
 	"authors": [
       {
@@ -435,6 +435,7 @@
         "PRIMARY_400": "#85876D",
         "PRIMARY_460": "#333333",
         "PRIMARY_500": "#2E2E2E",
+        "PRIMARY_560": "#464f00",
         "PRIMARY_600": "#262626",
         "PRIMARY_630": "#333333",
         "PRIMARY_660": "#333333",
