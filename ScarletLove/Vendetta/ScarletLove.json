@@ -1,5 +1,5 @@
 {
-    "name": "Scarlet Love 1.0.4 ",
+    "name": "Scarlet Love 1.0.5 ",
     "description": "Shades of Red, Shades of Love: Enter Scarlet's Embrace.",
   "authors": [
       {
@@ -263,6 +263,10 @@
         "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
             "#42110E",
             "#42110E"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_ALT_PRESSED_BACKGROUND": [
+            "#42110d",
+            "#42110d"
         ],
         "SCROLLBAR_AUTO_THUMB": [
             "#551e19",
