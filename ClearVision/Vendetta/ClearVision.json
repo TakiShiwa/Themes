@@ -313,6 +313,10 @@
             "#7eb3f0",
             "#000000"
         ],
+        "REDESIGN_BUTTON_SECONDARY_ALT_PRESSED_BACKGROUND": [
+            "#102b47",
+            "#102b47"
+        ],
         "SCROLLBAR_AUTO_THUMB": [
             "#061428",
             "#061428",
