@@ -1,5 +1,5 @@
 {
-    "name": "ClearVision 1.2.5",
+    "name": "ClearVision v1.2.5",
     "description": "Clear Vision paints serenity across the canvas of our Discord realm.",
 	"authors": [
       {
@@ -315,7 +315,8 @@
         ],
         "REDESIGN_BUTTON_SECONDARY_ALT_PRESSED_BACKGROUND": [
             "#102b47",
-            "#102b47"
+            "#7eb3f0",
+            "#000000"
         ],
         "SCROLLBAR_AUTO_THUMB": [
             "#061428",
@@ -419,6 +420,7 @@
         "PRIMARY_400": "#0f4480",
         "PRIMARY_460": "#061428",
         "PRIMARY_500": "#114d91",
+        "PRIMARY_560": "#102b47",
         "PRIMARY_600": "#06142800",
         "PRIMARY_630": "#061428",
         "PRIMARY_660": "#061428",
