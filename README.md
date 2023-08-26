@@ -15,7 +15,7 @@ Welcome to the Beautiful Themes repository!<br> Here, you will find a curated co
 
 This repository offers themes for:
 
-- [Vendetta](https://github.com/vendetta-mod), A mod for Discord's mobile apps.
+- [Vendetta](https://github.com/vendetta-mod), A mod for Discord's mobile app.
 - Telegram (Coming Soon)
 
 Each theme has been thoughtfully crafted to ensure the highest quality and aesthetic appeal.
