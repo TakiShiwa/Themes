@@ -1,5 +1,5 @@
 {
-    "name": "Vendetta Teal 1.2.2",
+    "name": "Vendetta Teal 1.2.3",
     "description": "An Amoled theme based on Vendetta Teal color.",
   "authors": [
       {
@@ -257,6 +257,10 @@
             "#00201f"
         ],
         "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+            "#00201f",
+            "#00201f"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_ALT_PRESSED_BACKGROUND": [
             "#00201f",
             "#00201f"
         ],
