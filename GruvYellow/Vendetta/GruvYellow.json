@@ -1,5 +1,5 @@
 {
-    "name": "Gruv Yellow 3.3.4",
+    "name": "Gruv Yellow v3.3.4",
     "description": "A gruvy yellow theme.",
 	"authors": [
       {
@@ -435,6 +435,7 @@
         "PRIMARY_400": "#85876D",
         "PRIMARY_460": "#3C3836",
         "PRIMARY_500": "#504945",
+        "PRIMARY_560": "#3c3836",
         "PRIMARY_600": "#282828",
         "PRIMARY_630": "#3C3836",
         "PRIMARY_660": "#3C3836",
