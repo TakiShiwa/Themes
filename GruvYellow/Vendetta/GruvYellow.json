@@ -1,5 +1,5 @@
 {
-    "name": "Gruv Yellow 3.3.2",
+    "name": "Gruv Yellow 3.3.3",
     "description": "A gruvy yellow theme.",
 	"authors": [
       {
@@ -304,6 +304,11 @@
             "#000000"
         ],
         "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+            "#3c3836",
+            "#ebdbb2",
+            "#000000"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_ALT_PRESSED_BACKGROUND": [
             "#3c3836",
             "#ebdbb2",
             "#000000"
