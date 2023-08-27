@@ -1,5 +1,5 @@
 <h3 align="center">
-   <img src="Asset/Profile/pfp.png" width="100" alt="Logo"/><br/>
+   <img src="Asset/Profile/Profile.png" width="100" alt="Logo"/><br/>
    Themes Repository
 </h3>
 
